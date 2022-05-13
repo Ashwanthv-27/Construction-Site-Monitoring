@@ -17,3 +17,5 @@ Custom labelled used CVAT tool. – ‘Equipment’ and ‘Tool’
 
 
 
+How to work:
+Running yolo.py will crop the PPE kit images into person, and data.py will crop into 3 body part regions. running safety will provide final output.
