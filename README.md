@@ -16,4 +16,4 @@ Custom labelled used CVAT tool. – ‘Equipment’ and ‘Tool’
 ![image](https://user-images.githubusercontent.com/88308675/168221582-587c43fa-6017-4777-8c72-14ecacbcaeac.png)
 
 
-The [hard hat dataset](https://drive.google.com/drive/folders/1jqZVOwssVVP0qzLtqTS3oSD64STih9JA?usp=sharing).
+
